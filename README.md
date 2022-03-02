@@ -1,0 +1,1 @@
+This tutorial is refered to [文系大学生のためのJavaScript入門](https://zenn.dev/ojk/books/intro-to-javascript/viewer/js-todolist).
